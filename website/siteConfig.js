@@ -188,6 +188,11 @@ const users = [
     image: '/jest/img/logos/wowair.png',
     infoLink: 'https://wowair.com/',
   },
+  {
+    caption: 'Jhink',
+    image: '/jest/img/logos/jhink.png',
+    infoLink: 'https://jhink.com/',
+  },
 ];
 
 const siteConfig = {
